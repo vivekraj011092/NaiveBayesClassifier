@@ -1,0 +1,15 @@
+Outlook,Temprature,Humidity,Wind,Condition,Play
+Rainy,Hot,High,FALSE,Fog,No
+Rainy,Hot,High,TRUE,Fog,No
+Overcast,Hot,High,FALSE,Fog,Yes
+Sunny,Mild,High,FALSE,Fog,Yes
+Sunny,Cool,Normal,FALSE,Fog,Yes
+Sunny,Cool,Normal,TRUE,Dim,Yes
+Overcast,Cool,Normal,TRUE,Dim,Yes
+Rainy,Mild,High,FALSE,Dim,No
+Rainy,Cool,Normal,FALSE,Dim,Yes
+Sunny,Mild,Normal,FALSE,Dim,Yes
+Rainy,Mild,Normal,TRUE,Light,Yes
+Overcast,Mild,High,TRUE,Light,Yes
+Overcast,Hot,Normal,FALSE,Light,Yes
+Sunny,Mild,High,TRUE,Light,No
